@@ -1,6 +1,4 @@
 ## Hi there 👋
-
-<!--
 **seunshyne/seunshyne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # 👋 Hi, I'm Oluwaseun Michael Oyebanji!
@@ -16,9 +14,8 @@
 - **Tools:** Git, Postman, XAMPP, VS Code
 
 ### 🌱 Currently Learning
-- Advanced Laravel features
-- Vue 3 + Composition API
-- API integration and deployment
+- node.js
+- Flutter
 
 ### 📫 Contact Me
 📧 [Email] ** oluwaseunoyebanji4@gmail.com  
